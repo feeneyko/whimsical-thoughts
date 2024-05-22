@@ -1,0 +1,3 @@
+[submodule "whimsical-thoughts-blog/themes/diary"]
+	path = whimsical-thoughts-blog/themes/diary
+	url = https://github.com/AmazingRise/hugo-theme-diary.git
