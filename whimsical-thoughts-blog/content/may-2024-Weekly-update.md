@@ -9,10 +9,13 @@ comment : false
 hidden: false
 ---
 
+*Scholarly and amateur texts are mixed here, and not all publication years are provided.*
 
 ## 本周读了
 ### 1
 [ブリコラージュ、進化、メーティス :文化と自然の統合](https://mp.weixin.qq.com/s?__biz=MzU5NDMzMTcyMQ==&mid=2247486859&idx=1&sn=709d5a1b632653cb6a144488821ad4a7&chksm=fe039cadc97415bbbd121d886287ae84f72811f9b2f7b3732c5076a5fc34cacb38db193f6054&scene=178&cur_album_id=2608437120646692864#rd)
+
+2017
 
 *出口	顯 / 吴佩桦 译*
 
@@ -23,6 +26,8 @@ The author explores the presence of bricolage in biological evolution, the anima
 
 ### 2
 [Dark Anthropology and Its Others: Theory since the eighties](https://www.journals.uchicago.edu/doi/10.14318/hau6.1.004#_i7)
+
+2016
 
 *Sherry B. Ortner*
 
@@ -67,7 +72,29 @@ Neoliberalism 太重要了。
 
 写很好，很好读，和上一篇一样的三段式论述。
 
+### 6
+[On actor-network theory: A few clarifications](https://www.jstor.org/stable/40878163)
 
+1996
+
+*Bruno Latour*
+- 说实话文章一复杂我就不敢在这里瞎写了
+- 先详解 “Network” 
+- 然后详解 “Actor”
+  - 三大 "preoccupations" 以及其他细节（这段最巧妙）
+    - semiotics and extanding it to more than text
+    - explanations emerge by themselves from the associations
+- 最近 (2023) 出版的一本ANT作为主要理论的 Ethnography: *To Save Heaven and Earth: Rescue in the Rwandan Genocide* by Jennie E. Burnet；嗯，上学期课上要读，但现在脑海里只剩下一些微妙的细节了...
+- 往前可以读Latour's *Science in Action* (1986)，STS领域的必读（*？citation needed*）
+- 往后可以看下STS的转向（Haraway? 变成研究 anthropocene 和 ecology 了嘛？）
+
+### 7
+
+[读书笔记｜《凯列班与女巫》:妇女、身体与原始积累](https://mp.weixin.qq.com/s/CpmoAi0RAsjE7rozKFXV_w)
+
+*姥姥树蛙*
+
+本身就是非常简短读书笔记了。一本历史视角，马克思主义女权主义的书。似乎很值得一读。
 
 ## 本周听了
 ### 1
@@ -89,6 +116,8 @@ Some interesting points:
 -	Philosophy of mind: monist’s view on AI
     <details>
         <summary>More by GPT 4o:</summary>
+
+        （刚刚在上面忍住没有放 GPT 4o 给的 ANT 的例子，这里忍不住了）
 
         In the philosophy of mind, monism is the view that there is only one kind of substance or fundamental reality, which contrasts with dualism (the view that there are two kinds of substances, such as mind and body). Your question about text, AI, and the mind can be explored from this perspective.
 
