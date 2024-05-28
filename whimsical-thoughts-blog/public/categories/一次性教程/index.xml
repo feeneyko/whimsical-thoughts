@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>一次性教程 on Whimsical Musings</title>
+    <link>https://blog.feeney.moe/categories/%E4%B8%80%E6%AC%A1%E6%80%A7%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 一次性教程 on Whimsical Musings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Feeney. Under CC-BY-NC 4.0.</copyright>
+    <lastBuildDate>Wed, 22 May 2024 00:53:31 -0400</lastBuildDate>
+    <atom:link href="https://blog.feeney.moe/categories/%E4%B8%80%E6%AC%A1%E6%80%A7%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Website With Github Pages and Hugo</title>
+      <link>https://blog.feeney.moe/posts/website-building/creating-a-website-with-github-pages-and-hugo/</link>
+      <pubDate>Wed, 22 May 2024 00:53:31 -0400</pubDate>
+      <guid>https://blog.feeney.moe/posts/website-building/creating-a-website-with-github-pages-and-hugo/</guid>
+      <description>1 参考这篇文章 如何用 GitHub Pages + Hugo 搭建个人博客 by 小绵尾巴&#xA;两点没有提到的：&#xA;在第六步安装和配置主题时，可能需要按需修改 .toml 文件的名字，否则可能无法预览&#xA;根据 exampleSite 内的 content 来修改archetypes 文件内的内容；防止以后创建文章 .md 内自动生成的文章信息错误&#xA;2 如果在第九步设置SSH时卡住了 可以尝试以下步骤。&#xA;确保 GitHub Pages 仓库的名字是 [username].github.io&#xA;一直按照上面的教程做完第 6.4 步，输完下面的命令&#xA;git remote add origin [...] 进入 ~\public\.git，修改config文件，在原本填的SSH 的位置放入 HTTPS&#xA;下载安装 GitHub Desktop。图形界面很简单，乱点一通或者随便搜下就能设置好。&#xA;点击左上角工具栏下方的第一个大按钮，选择 Add existing ...&#xA;添加之前准备好的 public 文件夹。GitHub Desktop 建议你按的按钮应该会有很显眼的提示。一顿瞎按，转到 GitHub 查看 GitHub Pages 仓库中是否存在刚刚推送的文件，存在则代表推送成功。以后每次写完只要打开 GitHub Desktop 一顿瞎按就好。&#xA;3 （可选）设置自定义域名 Github pages使用自定义域名 by 余小梦&#xA;4 其他 页面可能不显示修改后内容，可以开隐身模式查看 图片显示不出来：可以修改 content 内文件目录，查看 public 文件夹根据 content 所生成的内容，同时在网页上查看图片所引用(view page source)的位置，最后在 .</description>
+    </item>
+  </channel>
+</rss>

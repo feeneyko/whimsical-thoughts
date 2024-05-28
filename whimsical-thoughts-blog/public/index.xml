@@ -1,40 +1,234 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on A Hugo Site</description>
+    <title>Whimsical Musings</title>
+    <link>https://blog.feeney.moe/</link>
+    <description>Recent content on Whimsical Musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Thu, 14 Nov 2019 11:25:05 -0400</lastBuildDate>
+    <copyright>Feeney. Under CC-BY-NC 4.0.</copyright>
+    <lastBuildDate>Wed, 22 May 2024 15:22:09 -0400</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.feeney.moe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>May 2024 Weekly Update</title>
+        <link>https://blog.feeney.moe/may-2024-weekly-update/</link>
+        <pubDate>Wed, 22 May 2024 15:22:09 -0400</pubDate>
+        
+        <guid>https://blog.feeney.moe/may-2024-weekly-update/</guid>
+        <description>Whimsical Musings https://blog.feeney.moe/may-2024-weekly-update/ -&lt;h2 id=&#34;本周读了&#34;&gt;本周读了&lt;/h2&gt;
+&lt;h3 id=&#34;1&#34;&gt;1&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzU5NDMzMTcyMQ==&amp;amp;mid=2247486859&amp;amp;idx=1&amp;amp;sn=709d5a1b632653cb6a144488821ad4a7&amp;amp;chksm=fe039cadc97415bbbd121d886287ae84f72811f9b2f7b3732c5076a5fc34cacb38db193f6054&amp;amp;scene=178&amp;amp;cur_album_id=2608437120646692864#rd&#34;&gt;ブリコラージュ、進化、メーティス :文化と自然の統合&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;出口	顯 / 吴佩桦 译&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This paper delves into the concept of &amp;ldquo;bricolage&amp;rdquo; and its related ideas, including &amp;ldquo;affordance&amp;rdquo; and the role of bricolage in evolution. It also examines &amp;ldquo;Metis&amp;rdquo; as a specific aspect of bricolage. Bricolage refers to the creative assemblage of existing materials to solve problems. Affordance concerns the potential uses of a subject, while Metis involves the tactics and strategies employed in bricolage.&lt;/p&gt;
+&lt;p&gt;The author explores the presence of bricolage in biological evolution, the animal kingdom, and various human societies, including our own. Ultimately, the paper proposes constructing a bridge between nature, as interpreted by modern science and medicine, and culture, as understood through the cosmologies of hunter-gatherer societies. This bridge will be built through the similar bricolage practices across different societies.&lt;/p&gt;
+&lt;h3 id=&#34;2&#34;&gt;2&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.journals.uchicago.edu/doi/10.14318/hau6.1.004#_i7&#34;&gt;Dark Anthropology and Its Others: Theory since the eighties&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sherry B. Ortner&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The essay introduces the concept of “dark anthropology,” which focuses on the harsh and brutal aspects of human experience. Tracing the history of anthropology, it highlights the 1980s as a pivotal period marked by the influence of Marx&amp;rsquo;s and Foucault&amp;rsquo;s theories, which defined the shift towards “dark anthropology.” This approach examines worlds through the lenses of power and inequality, addressing dark subject matters such as neoliberalism and colonialism. Neoliberalism is explored both as an economic system (e.g., outsourcing) and as a form of governmentality (e.g., the war against the poor).&lt;/p&gt;
+&lt;p&gt;After reviewing the concept of “Anthropologies of the Good,” the author employs the term “Resistance” to encompass various modes of anthropological engagement with political issues, including “activist research” and “cultural critique.” Ultimately, the essay underscores the coexistence of critical studies of the existing order (pessimistic) and the envisioning of possible alternatives (optimistic).&lt;/p&gt;
+&lt;p&gt;Neoliberalism 太重要了。&lt;/p&gt;
+&lt;h3 id=&#34;3&#34;&gt;3&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/YKsVtUWPs9DADNwkS8EzQw&#34;&gt;加速赛博世：对《神经漫游者》中反乌托邦的批判&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;白芮&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;赛博空间，赛博世，加速主义；深度一般，但写的非常decent。&lt;/p&gt;
+&lt;h3 id=&#34;4&#34;&gt;4&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/xD0TJAwLWOkCZZuq7sRfVg&#34;&gt;Post Capitalist Desire：The Final Lectures（第一讲选译）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mark Fisher / 阈限雷达 译&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;如何想象后资本主义？是否有可能保留资本的某些欲望和技术基础，并超越资本？&lt;/p&gt;
+&lt;p&gt;一门课程的 Intro，将会涉及后资本主义相关的理论。&lt;/p&gt;
+&lt;h3 id=&#34;5&#34;&gt;5&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/iMdv9Tcael6j7rcMJQzsFw&#34;&gt;机械身体-编码生命：后人类生物权力技术异化的批判&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;白芮&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;生命政治内在地催生出死亡政治&lt;/li&gt;
+&lt;li&gt;后人类生命政治中异化的赛博格主体
+&lt;ul&gt;
+&lt;li&gt;偏向科技畅想，很过瘾但是不怎么可信 ; )&lt;/li&gt;
+&lt;li&gt;再无生命政治和死亡政治的区别&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;超越人类例外：人类世下生命政治的生态转向
+&lt;ul&gt;
+&lt;li&gt;经典 Haraway 和 Tsing&lt;/li&gt;
+&lt;li&gt;既是生态转向，也讨论&amp;quot;赛博格政治&amp;quot;带来的未知可能性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;写很好，很好读，和上一篇一样的三段式论述。&lt;/p&gt;
+&lt;h2 id=&#34;本周听了&#34;&gt;本周听了&lt;/h2&gt;
+&lt;h3 id=&#34;1-1&#34;&gt;1&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.xiaoyuzhoufm.com/episode/66449874251bd96e6c86979d&#34;&gt;人工智能文学是人类的照妖镜（上）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作为 &lt;em&gt;译诗者&lt;/em&gt; Podcast的一集&lt;/p&gt;
+&lt;p&gt;Some interesting points:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Rationalism vs Experientialism in AI (I am not 100% comfortable with the dichotomy)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perspective of human-machine collaboration: subject of creation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lack of affection in AI’s work&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Authorship and copyright&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Human-AI workflow&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rethink: reader/writer centered text&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AI in the future, purely ai generated contents that cannot discerned from human work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deleuze’s “creative becoming” (Not sure about this)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;History and Becoming: Deleuze&amp;rsquo;s Philosophy of Creativity&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Unconsciousness in text&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Philosophy of mind: monist’s view on AI&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;More by GPT 4o:&lt;/summary&gt;
+&lt;pre&gt;&lt;code&gt;In the philosophy of mind, monism is the view that there is only one kind of substance or fundamental reality, which contrasts with dualism (the view that there are two kinds of substances, such as mind and body). Your question about text, AI, and the mind can be explored from this perspective.
+
+You can indeed argue that text is an assembly of various signs (words, symbols, etc.) that influence the mind, and that AI creating texts is not fundamentally different from humans creating texts. Here are some points to consider:
+
+1. **Symbol Manipulation**: Both humans and AI manipulate symbols (words, sentences) according to certain rules. For AI, these rules are encoded in algorithms and models trained on large datasets, while for humans, these rules are learned through experience and education.
+
+2. **Production and Interpretation**: The production of text by both AI and humans involves generating sequences of symbols that convey meaning. The interpretation of text by a human mind involves understanding these symbols based on prior knowledge and context. From a monist perspective, this process might be seen as purely physical or computational, whether done by a brain or a machine.
+
+3. **Functionalism**: In the philosophy of mind, functionalism is the idea that what matters for the mind are the functions and processes it performs, not the specific physical substrate that performs them. According to functionalism, if an AI performs the same functions in generating and understanding text as a human does, then there is no fundamental difference in this aspect of their operations.
+
+4. **Information Processing**: Both human minds and AI systems can be viewed as information processors. The creation of text by AI can be seen as an advanced form of information processing, similar to how humans process and generate text based on their neural architecture.
+
+5. **Emergent Properties**: One might argue that the emergent properties of human thought and creativity are different from AI&#39;s text generation, which is based on patterns in data rather than subjective experiences. However, from a strict monist and functionalist viewpoint, these emergent properties are still the result of underlying physical processes, whether in neurons or in silicon.
+
+In conclusion, from a monist perspective, it is plausible to say that AI creating texts is not fundamentally different from humans creating texts, as both processes involve the assembly and manipulation of symbols according to certain rules and functions. However, this view can be debated, especially when considering the subjective experiences and consciousness associated with human text creation.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-1&#34;&gt;2&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1e84y1T79i/&#34;&gt;思想游牧——姜宇辉与夏莹共话《千高原》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;姜宇辉，夏莹&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;幽默杂谈，音频质量很差&lt;/p&gt;
+&lt;h3 id=&#34;3-1&#34;&gt;3&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1pN411A7mP&#34;&gt;《千高原》新译本的答疑专场&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;姜宇辉&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;更像是杂谈&lt;/p&gt;
+&lt;h3 id=&#34;4-1&#34;&gt;4&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1Aj41187QY/&#34;&gt;电子游戏作为梦机器：AI时代生而为主体的意义&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;姜宇辉&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;三种梦&lt;/li&gt;
+&lt;li&gt;三重梦在游戏内的体现&lt;/li&gt;
+&lt;li&gt;“破算工具” 和 生成式AI的幻觉 - AI是梦的机器&lt;/li&gt;
+&lt;li&gt;游戏也是梦的机器，由其黑暗面体现&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把人，机器，AI的梦混在一起谈，强调从 unpredictability 中涌现的 possibility。嗯&amp;hellip; 我也对AI持有乐观情绪。&lt;/p&gt;
+- https://blog.feeney.moe/may-2024-weekly-update/ - Feeney. Under CC-BY-NC 4.0.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>On Travel Photography</title>
+        <link>https://blog.feeney.moe/posts/on-travel-photography/</link>
+        <pubDate>Wed, 22 May 2024 01:04:50 -0400</pubDate>
+        
+        <guid>https://blog.feeney.moe/posts/on-travel-photography/</guid>
+        <description>Whimsical Musings https://blog.feeney.moe/posts/on-travel-photography/ -- https://blog.feeney.moe/posts/on-travel-photography/ - Feeney. Under CC-BY-NC 4.0.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Creating a Website With Github Pages and Hugo</title>
+        <link>https://blog.feeney.moe/posts/website-building/creating-a-website-with-github-pages-and-hugo/</link>
+        <pubDate>Wed, 22 May 2024 00:53:31 -0400</pubDate>
+        
+        <guid>https://blog.feeney.moe/posts/website-building/creating-a-website-with-github-pages-and-hugo/</guid>
+        <description>Whimsical Musings https://blog.feeney.moe/posts/website-building/creating-a-website-with-github-pages-and-hugo/ -&lt;h2 id=&#34;1-参考这篇文章&#34;&gt;1 参考这篇文章&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo&#34;&gt;如何用 GitHub Pages + Hugo 搭建个人博客 by 小绵尾巴&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;两点没有提到的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在第六步安装和配置主题时，可能需要按需修改 &lt;code&gt;.toml&lt;/code&gt; 文件的名字，否则可能无法预览&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;根据 &lt;code&gt;exampleSite&lt;/code&gt; 内的 content 来修改&lt;code&gt;archetypes&lt;/code&gt; 文件内的内容；防止以后创建文章 &lt;code&gt;.md&lt;/code&gt; 内自动生成的文章信息错误&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;2-如果在第九步设置ssh时卡住了&#34;&gt;2 如果在第九步设置SSH时卡住了&lt;/h2&gt;
+&lt;p&gt;可以尝试以下步骤。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;确保 GitHub Pages 仓库的名字是 [username].github.io&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一直按照上面的教程做完第 6.4 步，输完下面的命令&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git remote add origin [...]
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进入 &lt;code&gt;~\public\.git&lt;/code&gt;，修改config文件，在原本填的&lt;code&gt;SSH&lt;/code&gt; 的位置放入 &lt;code&gt;HTTPS&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../ssh-and-https.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下载安装 GitHub Desktop。图形界面很简单，乱点一通或者随便搜下就能设置好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;点击左上角工具栏下方的第一个大按钮，选择 &lt;code&gt;Add existing ...&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../add-ex.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;添加之前准备好的 &lt;code&gt;public&lt;/code&gt; 文件夹。GitHub Desktop 建议你按的按钮应该会有很显眼的提示。一顿瞎按，转到 GitHub 查看 GitHub Pages 仓库中是否存在刚刚推送的文件，存在则代表推送成功。以后每次写完只要打开 GitHub Desktop 一顿瞎按就好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;3-可选设置自定义域名&#34;&gt;3 （可选）设置自定义域名&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/529826545&#34;&gt;Github pages使用自定义域名 by 余小梦&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-其他&#34;&gt;4 其他&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;页面可能不显示修改后内容，可以开隐身模式查看&lt;/li&gt;
+&lt;li&gt;图片显示不出来：可以修改 &lt;code&gt;content&lt;/code&gt; 内文件目录，查看 &lt;code&gt;public&lt;/code&gt; 文件夹根据 &lt;code&gt;content&lt;/code&gt; 所生成的内容，同时在网页上查看图片所引用(view page source)的位置，最后在 &lt;code&gt;.md&lt;/code&gt; 内调整图片引用或者在 &lt;code&gt;content&lt;/code&gt; 调整图片位置。&lt;/li&gt;
+&lt;li&gt;TODO: 翻译功能，修改字体（大概率都不会实现）&lt;/li&gt;
+&lt;/ol&gt;
+- https://blog.feeney.moe/posts/website-building/creating-a-website-with-github-pages-and-hugo/ - Feeney. Under CC-BY-NC 4.0.</description>
+        </item>
     
     
     
         <item>
         <title>中文文本测试</title>
-        <link>http://example.org/posts/chinese/</link>
+        <link>https://blog.feeney.moe/posts/example-posts/chinese/</link>
         <pubDate>Thu, 14 Nov 2019 11:25:05 -0400</pubDate>
         
-        <guid>http://example.org/posts/chinese/</guid>
-        <description>A Hugo Site http://example.org/posts/chinese/ -&lt;p&gt;　　这样看来， 邓拓在不经意间这样说过，越是没有本领的就越加自命不凡。这不禁令我深思。 我们不得不面对一个非常尴尬的事实，那就是， 一般来说， 所谓中午吃什么，关键是中午吃什么需要如何写。 伏尔泰说过一句富有哲理的话，坚持意志伟大的事业需要始终不渝的精神。这启发了我， 那么， 对我个人而言，中午吃什么不仅仅是一个重大的事件，还可能会改变我的人生。 这样看来， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 一般来讲，我们都必须务必慎重的考虑考虑。 黑格尔说过一句富有哲理的话，只有永远躺在泥坑里的人，才不会再掉进坑里。这启发了我， 我们不得不面对一个非常尴尬的事实，那就是， 既然如何， 在这种困难的抉择下，本人思来想去，寝食难安。&lt;/p&gt;
+        <guid>https://blog.feeney.moe/posts/example-posts/chinese/</guid>
+        <description>Whimsical Musings https://blog.feeney.moe/posts/example-posts/chinese/ -&lt;p&gt;　　这样看来， 邓拓在不经意间这样说过，越是没有本领的就越加自命不凡。这不禁令我深思。 我们不得不面对一个非常尴尬的事实，那就是， 一般来说， 所谓中午吃什么，关键是中午吃什么需要如何写。 伏尔泰说过一句富有哲理的话，坚持意志伟大的事业需要始终不渝的精神。这启发了我， 那么， 对我个人而言，中午吃什么不仅仅是一个重大的事件，还可能会改变我的人生。 这样看来， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 一般来讲，我们都必须务必慎重的考虑考虑。 黑格尔说过一句富有哲理的话，只有永远躺在泥坑里的人，才不会再掉进坑里。这启发了我， 我们不得不面对一个非常尴尬的事实，那就是， 既然如何， 在这种困难的抉择下，本人思来想去，寝食难安。&lt;/p&gt;
 &lt;p&gt;　　我认为， 而这些并不是完全重要，更加重要的问题是， 了解清楚中午吃什么到底是一种怎么样的存在，是解决一切问题的关键。 中午吃什么因何而发生？ 而这些并不是完全重要，更加重要的问题是， 卢梭在不经意间这样说过，浪费时间是一桩大罪过。这启发了我， 既然如此， 从这个角度来看， 歌德在不经意间这样说过，意志坚强的人能把世界放在手中像泥块一样任意揉捏。我希望诸位也能好好地体会这句话。 我认为， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 莎士比亚在不经意间这样说过，人的一生是短的，但如果卑劣地过这一生，就太长了。带着这句话，我们还要更加慎重的审视这个问题： 带着这些问题，我们来审视一下中午吃什么。 中午吃什么因何而发生？ 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 布尔沃曾经说过，要掌握书，莫被书掌握；要为生而读，莫为读而生。这似乎解答了我的疑惑。 而这些并不是完全重要，更加重要的问题是， 生活中，若中午吃什么出现了，我们就不得不考虑它出现了的事实。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 带着这些问题，我们来审视一下中午吃什么。 生活中，若中午吃什么出现了，我们就不得不考虑它出现了的事实。 我认为， 一般来说， 中午吃什么，到底应该如何实现。 我们不得不面对一个非常尴尬的事实，那就是， 所谓中午吃什么，关键是中午吃什么需要如何写。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 现在，解决中午吃什么的问题，是非常非常重要的。&lt;/p&gt;
 &lt;p&gt;　　我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 可是，即使是这样，中午吃什么的出现仍然代表了一定的意义。 带着这些问题，我们来审视一下中午吃什么。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 我认为， 问题的关键究竟为何？ 非洲曾经提到过，最灵繁的人也看不见自己的背脊。这启发了我， 易卜生说过一句富有哲理的话，伟大的事业，需要决心，能力，组织和责任感。这似乎解答了我的疑惑。 一般来说， 在这种困难的抉择下，本人思来想去，寝食难安。 中午吃什么，到底应该如何实现。 经过上述讨论， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 中午吃什么因何而发生？
 带着这些问题，我们来审视一下中午吃什么。 对我个人而言，中午吃什么不仅仅是一个重大的事件，还可能会改变我的人生。&lt;/p&gt;
-- http://example.org/posts/chinese/ - This is a customized copyright.</description>
+- https://blog.feeney.moe/posts/example-posts/chinese/ - Feeney. Under CC-BY-NC 4.0.</description>
         </item>
     
     
     
         <item>
         <title>Typography - Test for features</title>
-        <link>http://example.org/posts/post-5/</link>
+        <link>https://blog.feeney.moe/posts/example-posts/post-5/</link>
         <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
         
-        <guid>http://example.org/posts/post-5/</guid>
-        <description>A Hugo Site http://example.org/posts/post-5/ -&lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
+        <guid>https://blog.feeney.moe/posts/example-posts/post-5/</guid>
+        <description>Whimsical Musings https://blog.feeney.moe/posts/example-posts/post-5/ -&lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
 &lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
 &lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
@@ -69,7 +263,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This is blockquote, Will make it &lt;em&gt;better now&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;lsquo;I want to do with you what spring does with the cherry trees.&amp;rsquo; &lt;!-- raw HTML omitted --&gt;cited ~Pablo Neruda&lt;!-- raw HTML omitted --&gt;*&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;I want to do with you what spring does with the cherry trees.&amp;rsquo; &lt;cite&gt;cited ~Pablo Neruda&lt;/cite&gt;*&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Et harum quidem &lt;em&gt;rerum facilis&lt;/em&gt; est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit&lt;/p&gt;
@@ -86,18 +280,18 @@
 &lt;li&gt;Green&lt;/li&gt;
 &lt;li&gt;Blue&lt;/li&gt;
 &lt;/ol&gt;
-- http://example.org/posts/post-5/ - This is a customized copyright.</description>
+- https://blog.feeney.moe/posts/example-posts/post-5/ - Feeney. Under CC-BY-NC 4.0.</description>
         </item>
     
     
     
         <item>
         <title>(No comment) When You Have Too Much to Do</title>
-        <link>http://example.org/posts/post-1/</link>
+        <link>https://blog.feeney.moe/posts/example-posts/post-1/</link>
         <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
         
-        <guid>http://example.org/posts/post-1/</guid>
-        <description>A Hugo Site http://example.org/posts/post-1/ -&lt;p&gt;You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.&lt;/p&gt;
+        <guid>https://blog.feeney.moe/posts/example-posts/post-1/</guid>
+        <description>Whimsical Musings https://blog.feeney.moe/posts/example-posts/post-1/ -&lt;p&gt;You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.&lt;/p&gt;
 &lt;p&gt;It all keeps piling up, and it can feel overwhelming.&lt;/p&gt;
 &lt;p&gt;How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?&lt;/p&gt;
 &lt;p&gt;In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.&lt;/p&gt;
@@ -131,18 +325,18 @@
 &lt;p&gt;Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).&lt;/p&gt;
 &lt;p&gt;As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.&lt;/p&gt;
 &lt;p&gt;You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.&lt;/p&gt;
-- http://example.org/posts/post-1/ - This is a customized copyright.</description>
+- https://blog.feeney.moe/posts/example-posts/post-1/ - Feeney. Under CC-BY-NC 4.0.</description>
         </item>
     
     
     
         <item>
         <title>Chapter VI: Esmeralda</title>
-        <link>http://example.org/posts/chapter-6/</link>
+        <link>https://blog.feeney.moe/posts/example-posts/chapter-6/</link>
         <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
         
-        <guid>http://example.org/posts/chapter-6/</guid>
-        <description>A Hugo Site http://example.org/posts/chapter-6/ -&lt;p&gt;We are delighted to be able to inform the reader, that during the whole of
+        <guid>https://blog.feeney.moe/posts/example-posts/chapter-6/</guid>
+        <description>Whimsical Musings https://blog.feeney.moe/posts/example-posts/chapter-6/ -&lt;p&gt;We are delighted to be able to inform the reader, that during the whole of
 this scene, Gringoire and his piece had stood firm. His actors, spurred on
 by him, had not ceased to spout his comedy, and he had not ceased to
 listen to it. He had made up his mind about the tumult, and was determined
@@ -211,84 +405,7 @@ an apothecary! It is true that Homerus begged through the Greek towns, and
 that Naso died in exile among the Muscovites. But may the devil flay me if
 I understand what they mean with their Esmeralda! What is that word, in
 the first place?—‘tis Egyptian!”&lt;/p&gt;
-- http://example.org/posts/chapter-6/ - This is a customized copyright.</description>
-        </item>
-    
-    
-    
-        <item>
-        <title>Chapter I: The Grand Hall</title>
-        <link>http://example.org/posts/chapter-1/</link>
-        <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-        
-        <guid>http://example.org/posts/chapter-1/</guid>
-        <description>A Hugo Site http://example.org/posts/chapter-1/ -&lt;p&gt;Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.&lt;/p&gt;
-&lt;p&gt;The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.&lt;/p&gt;
-&lt;p&gt;What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.&lt;/p&gt;
-&lt;p&gt;On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.&lt;/p&gt;
-&lt;p&gt;So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.&lt;/p&gt;
-&lt;p&gt;Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.&lt;/p&gt;
-&lt;p&gt;The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.&lt;/p&gt;
-&lt;p&gt;It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the &lt;em&gt;maréchaussée&lt;/em&gt;,
-the &lt;em&gt;maréchaussée&lt;/em&gt; to our &lt;em&gt;gendarmeri&lt;/em&gt; of Paris.&lt;/p&gt;
-- http://example.org/posts/chapter-1/ - This is a customized copyright.</description>
+- https://blog.feeney.moe/posts/example-posts/chapter-6/ - Feeney. Under CC-BY-NC 4.0.</description>
         </item>
     
     

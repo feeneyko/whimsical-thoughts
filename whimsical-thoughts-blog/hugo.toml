@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.feeney.moe"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "A Hugo Site"
-copyright = "This is a customized copyright."
+title = "Whimsical Musings"
+copyright = "Feeney. Under CC-BY-NC 4.0."
 theme = "diary"
 # googleAnalytics = "UA-123-45"
 
@@ -17,11 +17,17 @@ theme = "diary"
     noClasses = true
     style = "perldoc"
     tabWidth = 4
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = true
 
 [params]
-subtitle = "Themed by Diary."
+subtitle = "遐思逸想"
 enableGitalk = false
 enableGiscus = true
+favicon = "favicon.ico"
 
 # Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
 clarity = "abcdefghzd"
@@ -61,7 +67,6 @@ theme="github-light"
     data_theme="preferred_color_scheme"
     data_lang="en"
     crossorigin="anonymous"
-
 
 [[menu.main]]
 url = "/categories"

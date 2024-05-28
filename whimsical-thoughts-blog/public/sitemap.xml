@@ -2,58 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://blog.feeney.moe/tags/a/</loc>
+    <lastmod>2024-05-22T15:22:09-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/tags/b/</loc>
+    <lastmod>2024-05-22T15:22:09-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/categories/</loc>
+    <lastmod>2024-05-22T15:22:09-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/may-2024-weekly-update/</loc>
+    <lastmod>2024-05-22T15:22:09-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/tags/</loc>
+    <lastmod>2024-05-22T15:22:09-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/</loc>
+    <lastmod>2024-05-22T15:22:09-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/categories/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2024-05-22T15:22:09-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/categories/c/</loc>
+    <lastmod>2024-05-22T01:04:50-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/posts/on-travel-photography/</loc>
+    <lastmod>2024-05-22T01:04:50-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/posts/</loc>
+    <lastmod>2024-05-22T01:04:50-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/posts/website-building/creating-a-website-with-github-pages-and-hugo/</loc>
+    <lastmod>2024-05-22T00:53:31-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/categories/%E4%B8%80%E6%AC%A1%E6%80%A7%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-05-22T00:53:31-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.feeney.moe/tags/chinese/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://blog.feeney.moe/categories/chinese/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/chinese/</loc>
+    <loc>https://blog.feeney.moe/tags/text/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/chinese/</loc>
+    <loc>https://blog.feeney.moe/posts/example-posts/chinese/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/text/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/typography/</loc>
+    <loc>https://blog.feeney.moe/tags/typography/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/post-5/</loc>
+    <loc>https://blog.feeney.moe/posts/example-posts/post-5/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/post-1/</loc>
+    <loc>https://blog.feeney.moe/posts/example-posts/post-1/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/primer/</loc>
+    <loc>https://blog.feeney.moe/tags/primer/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/todo/</loc>
+    <loc>https://blog.feeney.moe/tags/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/categories/todo/</loc>
+    <loc>https://blog.feeney.moe/categories/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/chapter-6/</loc>
+    <loc>https://blog.feeney.moe/posts/example-posts/chapter-6/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/story/</loc>
+    <loc>https://blog.feeney.moe/categories/story/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url>
 </urlset>
