@@ -12,20 +12,18 @@ hidden: false
 *Scholarly and amateur texts are mixed here, and not all publication years are provided.*
 
 ## 本周读了
-### 1
-[ブリコラージュ、進化、メーティス :文化と自然の統合](https://mp.weixin.qq.com/s?__biz=MzU5NDMzMTcyMQ==&mid=2247486859&idx=1&sn=709d5a1b632653cb6a144488821ad4a7&chksm=fe039cadc97415bbbd121d886287ae84f72811f9b2f7b3732c5076a5fc34cacb38db193f6054&scene=178&cur_album_id=2608437120646692864#rd)
+
+### 1 [ブリコラージュ、進化、メーティス :文化と自然の統合](https://mp.weixin.qq.com/s?__biz=MzU5NDMzMTcyMQ==&mid=2247486859&idx=1&sn=709d5a1b632653cb6a144488821ad4a7&chksm=fe039cadc97415bbbd121d886287ae84f72811f9b2f7b3732c5076a5fc34cacb38db193f6054&scene=178&cur_album_id=2608437120646692864#rd)
 
 2017
 
-*出口	顯 / 吴佩桦 译*
+*出口 顯 / 吴佩桦 译*
 
 This paper delves into the concept of "bricolage" and its related ideas, including "affordance" and the role of bricolage in evolution. It also examines "Metis" as a specific aspect of bricolage. Bricolage refers to the creative assemblage of existing materials to solve problems. Affordance concerns the potential uses of a subject, while Metis involves the tactics and strategies employed in bricolage.
 
 The author explores the presence of bricolage in biological evolution, the animal kingdom, and various human societies, including our own. Ultimately, the paper proposes constructing a bridge between nature, as interpreted by modern science and medicine, and culture, as understood through the cosmologies of hunter-gatherer societies. This bridge will be built through the similar bricolage practices across different societies.
 
-
-### 2
-[Dark Anthropology and Its Others: Theory since the eighties](https://www.journals.uchicago.edu/doi/10.14318/hau6.1.004#_i7)
+### 2 [Dark Anthropology and Its Others: Theory since the eighties](https://www.journals.uchicago.edu/doi/10.14318/hau6.1.004#_i7)
 
 2016
 
@@ -37,17 +35,13 @@ After reviewing the concept of “Anthropologies of the Good,” the author empl
 
 Neoliberalism 太重要了。
 
-### 3
-
-[加速赛博世：对《神经漫游者》中反乌托邦的批判](https://mp.weixin.qq.com/s/YKsVtUWPs9DADNwkS8EzQw)
+### 3 [加速赛博世：对《神经漫游者》中反乌托邦的批判](https://mp.weixin.qq.com/s/YKsVtUWPs9DADNwkS8EzQw)
 
 *白芮*
 
 赛博空间，赛博世，加速主义；深度一般，但写的非常decent。
 
-### 4
-
-[Post Capitalist Desire：The Final Lectures（第一讲选译）](https://mp.weixin.qq.com/s/xD0TJAwLWOkCZZuq7sRfVg)
+### 4 [Post Capitalist Desire：The Final Lectures（第一讲选译）](https://mp.weixin.qq.com/s/xD0TJAwLWOkCZZuq7sRfVg)
 
 *Mark Fisher / 阈限雷达 译*
 
@@ -56,9 +50,7 @@ Neoliberalism 太重要了。
 一门课程的 Intro，将会涉及后资本主义相关的理论。
 
 
-### 5
-
-[机械身体-编码生命：后人类生物权力技术异化的批判](https://mp.weixin.qq.com/s/iMdv9Tcael6j7rcMJQzsFw)
+### 5 [机械身体-编码生命：后人类生物权力技术异化的批判](https://mp.weixin.qq.com/s/iMdv9Tcael6j7rcMJQzsFw)
 
 *白芮*
 
@@ -72,8 +64,7 @@ Neoliberalism 太重要了。
 
 写很好，很好读，和上一篇一样的三段式论述。
 
-### 6
-[On actor-network theory: A few clarifications](https://www.jstor.org/stable/40878163)
+### 6 [On actor-network theory: A few clarifications](https://www.jstor.org/stable/40878163)
 
 1996
 
@@ -88,17 +79,14 @@ Neoliberalism 太重要了。
 - 往前可以读Latour's *Science in Action* (1986)，STS领域的必读（*？citation needed*）
 - 往后可以看下STS的转向（Haraway? 变成研究 anthropocene 和 ecology 了嘛？）
 
-### 7
-
-[读书笔记｜《凯列班与女巫》:妇女、身体与原始积累](https://mp.weixin.qq.com/s/CpmoAi0RAsjE7rozKFXV_w)
+### 7 [读书笔记｜《凯列班与女巫》:妇女、身体与原始积累](https://mp.weixin.qq.com/s/CpmoAi0RAsjE7rozKFXV_w)
 
 *姥姥树蛙*
 
 本身就是非常简短读书笔记了。一本历史视角，马克思主义女权主义的书。似乎很值得一读。
 
 ## 本周听了
-### 1
-[人工智能文学是人类的照妖镜（上）](https://www.xiaoyuzhoufm.com/episode/66449874251bd96e6c86979d)
+### 1 [人工智能文学是人类的照妖镜（上）](https://www.xiaoyuzhoufm.com/episode/66449874251bd96e6c86979d)
 
 作为 *译诗者* Podcast的一集
 
@@ -136,22 +124,19 @@ Some interesting points:
         In conclusion, from a monist perspective, it is plausible to say that AI creating texts is not fundamentally different from humans creating texts, as both processes involve the assembly and manipulation of symbols according to certain rules and functions. However, this view can be debated, especially when considering the subjective experiences and consciousness associated with human text creation.
     </details>
 
-### 2
-[思想游牧——姜宇辉与夏莹共话《千高原》](https://www.bilibili.com/video/BV1e84y1T79i/)
+### 2 [思想游牧——姜宇辉与夏莹共话《千高原》](https://www.bilibili.com/video/BV1e84y1T79i/)
 
 *姜宇辉，夏莹*
 
 幽默杂谈，音频质量很差
 
-### 3
-[《千高原》新译本的答疑专场](https://www.bilibili.com/video/BV1pN411A7mP)
+### 3 [《千高原》新译本的答疑专场](https://www.bilibili.com/video/BV1pN411A7mP)
 
 *姜宇辉*
 
 更像是杂谈
 
-### 4
-[电子游戏作为梦机器：AI时代生而为主体的意义](https://www.bilibili.com/video/BV1Aj41187QY/)
+### 4 [电子游戏作为梦机器：AI时代生而为主体的意义](https://www.bilibili.com/video/BV1Aj41187QY/)
 
 *姜宇辉*
 
