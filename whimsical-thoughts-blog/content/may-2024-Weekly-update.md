@@ -2,7 +2,6 @@
 title: 'May 2024 Weekly Update'
 date: 2024-05-22T15:22:09-04:00
 description: "五月第四周速报"
-tags: [A, B]
 featured_image: "/images/DSC00187.jpg"
 categories: 记录
 comment : false
