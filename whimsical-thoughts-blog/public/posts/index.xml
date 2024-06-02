@@ -7,15 +7,8 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Feeney. Under CC-BY-NC 4.0.</copyright>
-    <lastBuildDate>Wed, 22 May 2024 01:04:50 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:53:31 -0400</lastBuildDate>
     <atom:link href="https://blog.feeney.moe/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>On Travel Photography</title>
-      <link>https://blog.feeney.moe/posts/on-travel-photography/</link>
-      <pubDate>Wed, 22 May 2024 01:04:50 -0400</pubDate>
-      <guid>https://blog.feeney.moe/posts/on-travel-photography/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Creating a Website With Github Pages and Hugo</title>
       <link>https://blog.feeney.moe/posts/website-building/creating-a-website-with-github-pages-and-hugo/</link>

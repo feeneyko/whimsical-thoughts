@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Feeney. Under CC-BY-NC 4.0.</copyright>
-    <lastBuildDate>Thu, 30 May 2024 17:04:42 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 17:13:14 -0400</lastBuildDate>
     <atom:link href="https://blog.feeney.moe/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C</title>
@@ -21,6 +21,20 @@
       <link>https://blog.feeney.moe/categories/%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.feeney.moe/categories/%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>旅行</title>
+      <link>https://blog.feeney.moe/categories/%E6%97%85%E8%A1%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.feeney.moe/categories/%E6%97%85%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>周末</title>
+      <link>https://blog.feeney.moe/categories/%E5%91%A8%E6%9C%AB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.feeney.moe/categories/%E5%91%A8%E6%9C%AB/</guid>
       <description></description>
     </item>
     <item>
