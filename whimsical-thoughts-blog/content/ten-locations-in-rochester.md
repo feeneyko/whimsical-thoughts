@@ -3,7 +3,7 @@ title: '罗切斯特十大周末好去处，私心推薦！'
 date: 2024-05-30T17:04:42-04:00
 description: "列了十个罗切斯特可以花半天时间的地方"
 featured_image: "/images/park.jpg"
-categories: 周末
+categories: 旅行
 comment : false
 hidden: false
 ---

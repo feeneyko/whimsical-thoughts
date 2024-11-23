@@ -6,7 +6,7 @@ tags: [A, B]
 featured_image: "/images/notebook.jpg"
 categories: 记录
 comment : false
-hidden: false
+hidden: true
 ---
 
 
